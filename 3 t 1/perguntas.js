@@ -1,23 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Esporte',
+    'Qual o jogador com mais gols no fultebol?',
+    'Cristiano Ronaldo'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da ucrania?',
+    'A capital da ucrania é kiev'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Historia',
+    'Qual o maior imperio em territorio da historia?',
+    'Império Mongol'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Tecnologia',
+    'Quando foi criado a internet?',
+    '29 de outubro de 1969'
+)
+criaCartao(
+    'Astronomia',
+    'Qual o maior planeta do sistema solar?',
+    'Jupiter'
+)
+criaCartao(
+    'Musica',
+    'Qual a musica mais tocada no mundo?',
+    'Blinding Lights'
 )
